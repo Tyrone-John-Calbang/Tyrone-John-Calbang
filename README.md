@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyrone-John-Calbang
-- 👦 I am 20, an IT student in college willing to learn
+- 👦 I am 22, an IT student in college willing to learn
 - 👀 I’m interested in coding back-end and object-oriented-programming
 - 🌱 I’m currently learning Java
 - 🏫 I would be glad if one could tutor me from scratch when it comes to Java or other OOP languages
